@@ -1,8 +1,8 @@
-#POSITIVO Y NEGATIVO
+#IF/ELSE
 * inicio
 * leer datos
-* verificar si es positivo o negativo
+* verificar si es odd/good/great/perfect
 * dar respuesta
 * fin
 
-![Sin titulo](img/ej1.jpg)
+![Sin titulo](img/eje3.jpg)
